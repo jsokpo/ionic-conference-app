@@ -1,0 +1,334 @@
+{
+
+  "schedule": [{
+    "date": "2047-05-17",
+    "groups": [{
+      "time": "8:00 am",
+      "sessions": [{
+        "name": "Breakfast",
+        "timeStart": "8:00 am",
+        "timeEnd": "9:00 am",
+        "location": "Main hallway",
+        "tracks": ["Food"]
+      }, {
+        "name": "Meet and Greet",
+        "timeStart": "9:00 am",
+        "timeEnd": "9:15 am",
+        "location": "Main hallway",
+        "tracks": ["Food"]
+      }]
+    }, {
+      "time": "9:15 am",
+      "sessions": [{
+        "name": "Adaptive (Agile) Project Management Distinguishing between Predictive and Adaptive Lifecycle Approaches",
+        "location": "Room 2203",
+        "description": "This seminar exposes delegates to the most current generally accepted practices of project management. Both predictive and adaptive project management approaches are explained and contrasted so that delegates can make informed decisions on when and how to apply each approach. Key tools and techniques used to establish and control dynamic project plans are explained and reinforced through practical application in a workshop style approach.",
+        "speakerNames": ["David Elewu"],
+        "timeStart": "9:15 am",
+        "timeEnd": "9:30 am",
+        "tracks": ["Project management"]
+      }, {
+        "name": "Strategies for Conflict Management in Rural Communities",
+        "location": "Room 2202",
+        "description": "This seminar is designed to equip the participants with requisite knowledge and skills for effective management of interpersonal relationship and conflict resolution. Specifically, at the end of this course participants should be able to: •Explain the concept of conflict in rural communities, •Describe various strategies for conflict resolution in rural communities, •Identify constraints to effective management of conflicts.",
+        "speakerNames": ["Elizabeth Iroha"],
+        "timeStart": "9:30 am",
+        "timeEnd": "9:45 am",
+        "tracks": ["Conflict management"]
+      }, {
+        "name": "Authentic Leadership",
+        "location": "Room 2201",
+        "description": "This seminar focuses on the role the leader has in shaping the way the team and the wider organization reaches decisions and in resolving ethical dilemmas. The seminar will also focus on •Digging beneath the surface: values, beliefs and emotions, •Building personal credibility, •Formulating a coherent and shared vision for the future, •Investing in team growth through coaching and development, •Resolving ethical dilemmas, •Building trust within and beyond the team ",
+        "speakerNames": ["Jennifer Itameh"],
+        "timeStart": "9:45 am",
+        "timeEnd": "10:00 am",
+        "tracks": ["Leadership"]
+      }]
+    }, {
+      "time": "10:00 am",
+      "sessions": [{
+        "name": "Application of Computer and ICT in Finance and Accounting",
+        "location": "Room 2201",
+        "description": "This seminar is designed to assist participants understand the information capabilities of a computerized accounting system and leverage on this knowledge for speed, accuracy and flexibility. The seminar will focus •Overview of Financial Reporting Systems, •Introduction to ICT, Recent Developments in ICT,•Introduction to e-Business and IT Audit, •IT in Finance and Accounts, •Peculiarities of a Computerized Accounting System •Procedures for Computerizing and Accounting System, •Overcoming the Challenges of Software Implementation, •Maximizing the Benefits of Computerization, •Control and Security Over a Computerized Accounting System",
+        "speakerNames": ["Jude Awosike", "Peter Erima"],
+        "timeStart": "10:00 am",
+        "timeEnd": "10:15 am",
+        "tracks": ["ICT"]
+      }, {
+        "name": "Machinery Failure, Vibration and Predictive Maintenance",
+        "location": "Room 2203",
+        "description": "Failure analysis and Predictive Maintenance techniques, including vibration analysis, are discussed in the course with a view to optimising the maintenance engineering effort while maximising production. Other techniques that will be addressed include infrared thermography, passive ultrasonic, tribology and performance monitoring. At the end of this seminar participants will have:•An understanding of Machine Failure Analysis techniques, •An understanding of a range of Predictive Maintenance Technologies, •Knowledge of the potential contribution of each these technologies to maintenance efficiency, •Guidelines indicating how these technologies can interact with and support each other, •Hints and Tips for practical application of these technologies so as to achieve the best results",
+        "speakerNames": ["James Awunike"],
+        "timeStart": "10:15 am",
+        "timeEnd": "10:30 am",
+        "tracks": ["Project management"]
+      }, {
+        "name": "Conducting Effective Meetings and Minutes Making Made Simple for Administrative Officers and Senior Secretaries",
+        "location": "Room 2202",
+        "description": "To provide participants with the required techniques, knowledge and skills that enable them to plan and schedule effective meetings. The seminar will focus on •The Role and Importance of Meetings in the Organization, •Benefits of Meetings, •Requirements for the Success of Meetings, •The Role of Meetings, •Types of Meetings, •Formal and Legal Meetings. Planning and Scheduling of Meetings by Computer: •Scheduling and Coordinating with participants, •Informing Participants, •The Agenda. Preparing and Organizing of the Meeting Room: •Types of Meeting Rooms, •Designing Meeting Rooms, •Preparing Meeting Equipments and Materials, •Preparing Meeting Documents and Forms, •Catering Services, •Using Checklist",
+        "speakerNames": ["Amanda Ibeh", "Cynthia Awurum"],
+        "timeStart": "10:30 am",
+        "timeEnd": "10:45 am",
+        "tracks": ["Communication"]
+      }, {
+        "name": "Advanced Data Analysis Techniques Modelling, Simulation and Predictive Analytics",
+        "location": "Room 2202",
+        "description": "The seminar shows by example how to build on the method learned in the Data Analysis Techniques seminar and to create a variety of powerful modelling, simulation and predictive analytical methods.The methods introduced include Bayesian models, Newtonian and genetic optimisation methods, Monte Carlo simulation, Markov models, advanced What If analysis, Time Series models, Linear Programming, and more.The seminar uses advanced features of Microsoft Excel throughout, and it is important that all delegates are fully competent in both Excel and the statistical analysis of data.This training seminar aims to provide those involved in analysing numerical data with the understanding and practical capabilities needed to convert data into meaningful information via the use of a range of very powerful modelling, simulation and predictive analytical methods. The specific objectives are as follows:•To teach delegates how to solve a wide range of business problems which require modelling, simulation and predictive analytical approaches, •To show delegates how to implement a wide range of the more common modelling, simulation and predictive analytical methods using Microsoft Excel 2010 (or higher) and in particular the Solver tool,•To provide delegates with both a conceptual understanding and practical experience of a range of the more common modelling, simulation and predictive analytical techniques, including Bayesian models, conventional and genetic optimisation methods, Monte Carlo models, Markov models, What If analysis, Time Series models, Linear Programming, and more. •To give delegates the ability to recognize which modelling, simulation and predictive analysis methods are best suited to which types of problems, •To give delegates sufficient background and situation experience to be able to judge when an applied technique will likely lead to incorrect conclusions, •To provide a clear understanding of why the best companies in the world see modelling, simulation and predictive analytics as being essential to delivering the right quality products and optimised services at the lowest possible costs.",
+        "speakerNames": ["Joseph Uraje"],
+        "timeStart": "10:45 am",
+        "timeEnd": "11:00 am",
+        "tracks": ["Data Analysis"]
+      }]
+    }, {
+      "time": "11:00 am",
+      "sessions": [{
+        "name": "Human Relations and Interpersonal Skills",
+        "location": "Room 2201",
+        "description": "This seminar is intended to assist individuals in recognizing their own communication styles and how these differ from those of others in the workplace. Additionally, participants learn how to improve their interpersonal skills and maintain relationships over time. Through interactive activities, self-assessments, and discussions, participants gain an awareness of their communication styles and learn strategies to resolve conflicts and communicate effectively with those whose styles are unlike their own. This seminar is intended for individuals who want to understand their communication style and use that to improve their human relations and interpersonal skills:  whether at interpersonal, group, intra-group, or organizational level",
+        "speakerNames": ["Amanda Ibeh", "Cynthia Awurum"],
+        "timeStart": "11:00 am",
+        "timeEnd": "11:45 am",
+        "tracks": ["Communication"]
+      }, {
+        "name": "Security Management in an ICT Environment",
+        "location": "Room 2203",
+        "description": "This workshop is designed to teach security management in an ICT Environment. The seminar will focus on: •Network security,•Security Configuration management, •Security testing and Evaluation, •Contingency and Disaster Recovery, •Intrusion Detection System (IDS), •Vulnerability Scanning, •Risk Assessment, •System Authorization, •Information Security Policy and Procedures, •Security Controls, •Incident Response and Reporting",
+        "speakerNames": ["Jude Awosike", "Simon Ewah"],
+        "timeStart": "11:30 am",
+        "timeEnd": "11:50 am",
+        "tracks": ["ICT"]
+      }, {
+        "name": "The Strategic Leader: Strategic Planning, Negotiation and Conflict Management",
+        "location": "Room 2203",
+        "description": "This seminar brings together the key strategic leadership skills of strategic planning, negotiation and conflict management required to succeed in today’s complex and challenging business environment. This seminar will enable you to: •Challenge your preconceptions about strategic planning, negotiation and conflict management, •Understand the content of strategy - unravelled, demystified and translated into everyday language, •Learn how to implement the strategic planning process and get real value out of the process, •Learn how to analyse the much-misunderstood concept of win-win negotiation, •Obtain the essential tools and practical skills for the planning and management of the negotiation and conflict process, thereby developing the ability to negotiate value-creating solutions",
+        "speakerNames": ["Michael Ituma", "Paul Orimi"],
+        "timeStart": "11:30 am",
+        "timeEnd": "12:00 pm",
+        "tracks": ["Leadership"]
+      }]
+    }, {
+      "time": "12:00 pm",
+      "sessions": [{
+        "name": "Lunch",
+        "location": "Auditorium",
+        "description": "Come grab lunch with all the strategic management fanatics and talk all things on the planning analysis",
+        "timeStart": "12:00 pm",
+        "timeEnd": "1:00 pm",
+        "tracks": ["Food"]
+      }]
+    }, {
+      "time": "1:00 pm",
+      "sessions": [{
+        "name": "Effective Networking of Information Communication and Technologies (ICTs) in Rural Management",
+        "location": "Room 2201",
+        "description": "This seminar is designed to equip ARD managers with necessary skills on emerging technologies for effective dissemination and utilization of information. At the end of the course, participants should be able to: •Discuss the role of internet technologies in rural development; •Explain the basic principles of network based information resources; •Organize an ICT-enabled “Common Service Centre”; and•Use modern ICTs tools.",
+        "speakerNames": ["Dennis Ejeh"],
+        "timeStart": "1:00 pm",
+        "timeEnd": "1:15 pm",
+        "tracks": ["ICT"]
+      }, {
+        "name": "Excellence in Maintenance and Reliability Management: Preventive and Predictive Maintenance and Machinery Failure Analysis",
+        "location": "Room 2201",
+        "description": "This seminar starts with the key aspects that lay the foundations and cornerstones of an effective maintenance function. It introduces reliability strategies such as FMECA, TPM, RCM and RCFA to highlight their costs and benefits. The seminar will then demonstrate how these strategies are used to derive the different maintenance tactics of predictive, preventive, detective and repair-after-failure maintenance tactics.An in depth analysis of risk-based processes such as Reliability Centered Maintenance, the principles of Risked Based Maintenance and Totally Productive Maintenance; as well as a unique, practical application of the methodologies to demonstrate how they can be applied in the real world; are integral components of this training programme.",
+        "speakerNames": ["James Awunike"],
+        "timeStart": "1:15 pm",
+        "timeEnd": "1:30 pm",
+        "tracks": ["Project management"]
+      }, {
+        "name": "Implementing Effective Preventive and Predictive Maintenance Programmes",
+        "location": "Room 2203",
+        "description": "This seminar has been designed to benefit both qualified new professionals as well as experienced professionals who may be involved in the rollout of a comprehensive Maintenance and Asset Management process or auditing an existing process. It covers all the steps required in developing a successful Preventive and Predictive Maintenance Program from failure behavior and finding the right preventive maintenance task until a well-managed preventive and predictive maintenance program, fully integrated with the workflow and the CMMS.",
+        "speakerNames": ["Paul Orimi", "Peter Erima"],
+        "timeStart": "1:30 pm",
+        "timeEnd": "2:00 pm",
+        "tracks": ["Project management"]
+      }]
+    }, {
+      "time": "2:00 pm",
+      "sessions": [{
+        "name": "ICT Appreciation Workshop for Executives ",
+        "location": "Room 2202",
+        "description": "This workshop is designed to sharpen the skills of participants in the use of Microsoft Office, i.e., MS-Word, MS-Excel, PowerPoint and Outlook, to enable them to cope with challenges of managing the human resource and improving their overall performance. At the end of the workshop, participants will be able to: •Perform better and faster with MS-Word, from text formatting to tracking changes, •Make MS-Outlook their office assistant, •Use MS-Excel for decision making, •Make presentations using MS-PowerPoint, •Access the internet for information.",
+        "speakerNames": ["Michael Ituma", "Dennis Ejeh"],
+        "timeStart": "2:00 pm",
+        "timeEnd": "2:30 pm",
+        "tracks": ["Services"]
+      }, {
+        "name": "Success under Pressure: Emotional Intelligence, Conflict Management and Negotiations",
+        "location": "Room 2202",
+        "description": "The programme opens by exploring the importance of emotional intelligence for bringing balance into our mental and emotional state. The programme explores each individual personality profile and elaborates upon its strengths and areas for self-development to handle stress.Participants also learn how to establish effective working relationships with others through handling conflict and negotiating for win-win outcomes. Participants will return to their organizations armed with strategies to cope with stress in the workplace for optimum performance.  They will also take with them an enhanced toolkit and skill-set to achieve greater impact and influence at work.",
+        "speakerNames": ["David Elewu"],
+        "timeStart": "2:30 pm",
+        "timeEnd": "2:45 pm",
+        "tracks": ["Conflict management"]
+      }, {
+        "name": "Application of Information and Communication Technology (ICT) for Agriculture and Rural Development Programmes ",
+        "location": "Room 2203",
+        "description": "This seminar therefore is designed to enhance the knowledge and skills of senior/middle managers to effectively apply ICT tools for managing information. At the end of the course, participants should be able to: •Discuss the role of modern ICT in agricultural and rural development; •Explain fundamental principles in ICT.•Use of modern ICT facilities; and •Use of Multi-Media data operating equipment.",
+        "speakerNames": ["Jude Awosike", "Simon Ewah"],
+        "timeStart": "2:45 pm",
+        "timeEnd": "3:00 pm",
+        "tracks": ["ICT"]
+      }]
+    }, {
+      "time": "3:00",
+      "sessions": [{
+        "name": "Leadership Development for Engineers: Motivating, Coaching and Conflict Management for Superior Performance",
+        "location": "Room 2201",
+        "description": "This seminar event will take participants on a journey of discovery from stepping up to Leadership through to high level Communication skills and Emotional Intelligence.Along the way, you will explore and use the essential skills of leadership including, Motivation, Performance Management, Coaching, and Conflict Management.",
+        "speakerNames": ["James Awunike"],
+        "timeStart": "3:00 pm",
+        "timeEnd": "3:30 pm",
+        "tracks": ["Leadership"]
+      }, {
+        "name": "Community Liaison and Conflict Resolution Course",
+        "location": "Room 2202",
+        "description": "This program is designed to equip the participants with skills in managing effective conflict in the workplace. After completing this program participants will:- •Understand the root causes of workplace conflict, •Know how to resolve workplace conflicts.•Know how to apply the principles of effective negotiation and reconciliation techniques in conflict resolution",
+        "speakerNames": ["Cynthia Awurum"],
+        "timeStart": "3:30 pm",
+        "timeEnd": "3:45 pm",
+        "tracks": ["Conflict management"]
+      }, {
+        "name": "ICT Application Workshop for Librarians and Educationists ",
+        "location": "Room 2203",
+        "description": "This workshop is designed for Information Professionals, including Chartered Librarians, Archivists and Educationists, to acquaint them with the use of ICT to enable them to meet up with the current trend and challenges. At the end of the workshop, participants will be able to: •Use ICT to prepare, store, view and retrieve documents, •Identify the features of library automation, •Use internet services to search for  information. Contents: •Concept of Information and Communication, Technology, •ICT Essentials, •The use of ICT to Prepare, Store, View and Retrieve Documents, •Introduction to Library Automation, •Concept of Virtual Library and E- Learning, •Internet: Meaning and Features, •Browsing Techniques, •Computer Networking and Administration",
+        "speakerNames": ["Jude Awosike"],
+        "timeStart": "3:45 pm",
+        "timeEnd": "4:15 pm",
+        "tracks": ["ICT"]
+      }, {
+        "name": "Managing Conflicts and Difficult Situations",
+        "location": "Room 2204",
+        "description": "This seminar will highlight:•Your natural personality preferences for thinking, feeling, speaking and behaving that may trigger conflict - or help to manage it, •The default conflict-management strategies people use - both helpful and unhelpful, •The nature, types and causes of conflict and difficulty - inter-personal and strategic, •Highly effective strategic and verbal techniques to address conflict and difficulties at both the individual and organizational level, •How to structure your meetings, presentations and communications to reduce negative conflict and encourage healthy debate. Objectives: This seminar is designed to help you to:•Identify the common types and sources of conflict in your workplace, •Appreciate your own and other’s personality profiles and preferred conflict approaches, •Understand the predictable emotional triggers and responses to conflict, •Differentiate between assertive, passive and aggressive behaviors, •Deal with difficult people and situations using a large range of powerful techniques, •At the end of this seminar, you will learn how to: •Understand the root causes of conflict in the workplace, •Determine people’s preferred conflict styles, •Adopt the most effective skills and techniques to swiftly address the issues, •Feel confident, competent and in command when handling difficult situations, •Hold those ‘crucial conversations’ with others regarding their contribution, behavior or attitude",
+        "speakerNames": ["Elizabeth Iroha", "Cynthia Awurum"],
+        "timeStart": "4:15 pm",
+        "timeEnd": "4:45 pm",
+        "tracks": ["Conflict management"]
+      }]
+    }]
+  }],
+
+
+  "speakers": [{
+    "name": "Amanda Ibeh",
+    "profilePic": "assets/img/speakers/Amanda_Ibeh.jpg",
+    "twitter": "ionicframework",
+    "about": "Amanda is a Consultant.",
+    "location": "Everywhere",
+    "email": "amanda@example.com",
+    "phone": "+1-541-754-3010"
+  }, {
+    "name": "Cynthia Awurum",
+    "profilePic": "assets/img/speakers/Cynthia_Awurum.jpg",
+    "twitter": "ionicframework",
+    "about": "Cynthia is a Consultant.",
+    "location": "Everywhere",
+    "email": "cynthia@example.com",
+    "phone": "+1-541-754-3010"
+  }, {
+    "name": "David Elewu",
+    "profilePic": "assets/img/speakers/David_Elewu.jpg",
+    "twitter": "ionicframework",
+    "about": "David is a Consultant.",
+    "location": "Everywhere",
+    "email": "david@example.com",
+    "phone": "+1-541-754-3010"
+  }, {
+    "name": "Dennis Ejeh",
+    "profilePic": "assets/img/speakers/Dennis_Ejeh.jpg",
+    "twitter": "ionicframework",
+    "about": "Dennis is an Consultant.",
+    "location": "Everywhere",
+    "email": "dennis@example.com",
+    "phone": "+1-541-754-3010"
+  }, {
+    "name": "Elizabeth Iroha",
+    "profilePic": "assets/img/speakers/Elizabeth_Iroha.jpg",
+    "twitter": "ionicframework",
+    "about": "Elizabeth is an Consultant.",
+    "location": "Everywhere",
+    "email": "elizabeth@example.com",
+    "phone": "+1-541-754-3010"
+  }, {
+    "name": "James Awunike",
+    "profilePic": "assets/img/speakers/James_Awunike.jpg",
+    "twitter": "ionicframework",
+    "about": "James is a Consultant.",
+    "location": "Everywhere",
+    "email": "james@example.com",
+    "phone": "+1-541-754-3010"
+  }, {
+    "name": "Jennifer Itameh",
+    "profilePic": "assets/img/speakers/Jennifer_Itameh.jpg",
+    "twitter": "ionicframework",
+    "about": "Jennifer is an Consultant.",
+    "location": "Everywhere",
+    "email": "jennifer@example.com",
+    "phone": "+1-541-754-3010"
+  }, {
+    "name": "Joseph Uraje",
+    "profilePic": "assets/img/speakers/Joseph_Uraje.jpg",
+    "twitter": "ionicframework",
+    "about": "Joseph is a Consultant.",
+    "location": "Everywhere",
+    "email": "joseph@example.com",
+    "phone": "+1-541-754-3010"
+  }, {
+    "name": "Jude Awosike",
+    "profilePic": "assets/img/speakers/Jude_Awosike.jpg",
+    "twitter": "ionicframework",
+    "about": "Jude is a Consultant.",
+    "location": "Everywhere",
+    "email": "jude@example.com",
+    "phone": "+1-541-754-3010"
+  }, {
+    "name": "Michael Ituma",
+    "profilePic": "assets/img/speakers/Michael_Ituma.jpg",
+    "twitter": "ionicframework",
+    "about": "Michael is a Consultant.",
+    "location": "Everywhere",
+    "email": "michael@example.com",
+    "phone": "+1-541-754-3010"
+  }, {
+    "name": "Paul Orimi",
+    "profilePic": "assets/img/speakers/Paul_Orimi.jpg",
+    "twitter": "ionicframework",
+    "about": "Paul is a Consultant.",
+    "location": "Everywhere",
+    "email": "paul@example.com",
+    "phone": "+1-541-754-3010"
+  }, {
+    "name": "Peter Erima",
+    "profilePic": "assets/img/speakers/Peter_Erima.jpg",
+    "twitter": "ionicframework",
+    "about": "Peter is a Consultant.",
+    "location": "Everywhere",
+    "email": "peter@example.com",
+    "phone": "+1-541-754-3010"
+  }, {
+    "name": "Simon Ewah",
+    "profilePic": "assets/img/speakers/Simon_Ewah.jpg",
+    "twitter": "ionicframework",
+    "about": "Simon is a Consultant.",
+    "location": "Everywhere",
+    "email": "simon@example.com",
+    "phone": "+1-541-754-3010"
+  }],
+
+
+  "map": [{
+    "name": "Transcorp Hilton Abuja",
+    "lat": 9.074434,
+    "lng": 7.4926753,
+    "center": true
+  }, {
+    "name": "United Nations Development Programme HQ",
+    "lat": 9.0357534,
+    "lng": 7.3952494
+  }, {
+    "name": "Afterparty - Peachvine Marquee Wedding & Event Center",
+    "lat": 9.0517792,
+    "lng": 7.4496981
+  }]
+
+}

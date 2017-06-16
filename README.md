@@ -1,1 +1,1 @@
-# ionic-conference-app
+# ionic-conference-mobile-app-development
